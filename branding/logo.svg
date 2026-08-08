@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 806 256">
+  <g transform="translate(0,40) scale(0.6875)">
+    <rect width="256" height="256" rx="56" fill="#0A0A0F"/>
+
+<path d="M96 56 L122 128 L96 116 L70 128 Z" fill="none" stroke="#FFFFFF" stroke-width="7" stroke-linejoin="round"/>
+<path d="M88 124 L96 144 L104 124" fill="none" stroke="#FFD166" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M160 116 L196 124 L206 154 L188 182 L154 176 L144 142 Z" fill="none" stroke="#FFFFFF" stroke-width="7" stroke-linejoin="round"/>
+<circle cx="70" cy="180" r="4" fill="#FFFFFF"/><circle cx="180" cy="72" r="4" fill="#FFFFFF"/>
+
+  </g>
+  <text x="224" y="140" font-family="Montserrat, 'Segoe UI', 'DejaVu Sans', system-ui, sans-serif" font-size="84" font-weight="700" fill="#1B1F26">Asteroids</text>
+  <text x="224" y="192" font-family="Montserrat, 'Segoe UI', 'DejaVu Sans', system-ui, sans-serif" font-size="32" font-weight="500" fill="#5A6472">Vectors never die.</text>
+</svg>
